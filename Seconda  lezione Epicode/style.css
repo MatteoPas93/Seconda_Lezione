@@ -1,0 +1,285 @@
+body {
+  background-color: #eaeded;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Logo {
+  background-color: #222f3e;
+  width: 100%;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+
+.Logo-amazon {
+  object-fit: cover;
+  width: 9%;
+  margin-left: 25px;
+  margin-top: 4px;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+
+.Menu {
+  background-color: #354758;
+  width: 98, 5%;
+  padding-top: 0%;
+  height: 25px;
+  margin-top: 0%;
+  padding-left: 25px;
+  
+}
+
+.Menu button {
+  color: white;
+  margin-top: 5px;
+}
+
+main,
+button {
+  background-color: #354758;
+  border-color: #222f3e;
+  margin-inline: 0%;
+  float: left;
+  border-style: none;
+  margin-top: 1px;
+}
+
+.Arancione {
+  background-color: #f56600;
+  width: 95%;
+  margin-left: 25px;
+  border-top: #eaeded;
+}
+
+h5 {
+  color: white;
+  text-align: center;
+  
+}
+
+.Gift-Guide,
+.Catalogo {
+  width: 95%;
+  margin-left: 26px;
+  position: relative;
+  height: 40%;
+}
+
+.Guide {
+  width: 100%;
+  padding-bottom: 0%;
+  position: absolute;
+}
+
+.H {
+  margin: 0%;
+  color: white;
+  background-image: url(Immagini/Gift-Guide.png);
+
+  padding-block: 40px;
+  text-align: center;
+}
+
+h3 {
+  padding-left: 1%;
+  padding-top: 15px;
+  margin-top: -1.4%;
+}
+
+.Grigio {
+  height: 25px;
+}
+
+.Perfect-gift {
+  position: relative;
+}
+
+h4 {
+  position: absolute;
+  margin-left: 15px;
+  padding-top: 15px;
+  border-top: #eaeded;
+  margin-top: 0%;
+  left: 20px;
+}
+
+
+#Tablet,
+#Pc,
+#Orologio,
+#Animali {
+  object-fit: cover;
+  border-radius: 15% 15% 15% 15%;
+  width: 20%;
+  padding: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 20px;
+  padding-top: 5px;
+  height: 350px;
+  margin-top: 40px;
+}
+
+.Catalogo {
+  background-color: white;
+  margin-top: 5px;
+  padding-top: 0%;
+}
+
+.Grigio {
+  background-color: #eaeded;
+  width: 100%;
+}
+
+.Visore {
+  padding-bottom: 0%;
+}
+
+#Visore2 {
+  width: 95%;
+  margin-left: 25px;
+  object-fit: cover;
+}
+
+.Gaming {
+  padding-bottom: 0%;
+}
+
+#Gaming2 {
+  padding-top: 2px;
+  text-align: center;
+  margin-top: 0%;
+}
+
+#Cuffie {
+  width: 95%;
+  margin-left: 25px;
+  object-fit: cover;
+}
+
+#Audio {
+  text-align: center;
+  margin-top: 0%;
+}
+
+.Finale {
+  text-align: center;
+  background-color: #354758;
+  height: 30px;
+  padding-top: 5px;
+}
+
+#Finale2 {
+  color: white;
+  font-size: small;
+}
+
+.FinePagina {
+  background-color: #222f3e;
+  height: 100px;
+}
+
+#LogoFinale {
+  object-fit: cover;
+  width: 10%;
+  margin-left: 45.5%;
+  margin-top: 35px;
+}
+
+a {
+  font-size: small;
+  color: rgb(84, 84, 227);
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.extra-section {
+  display: inline-block;
+  width: 335px;
+  height: 500px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 0%;
+  position: relative;
+  margin-left: 10%;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+
+.extra-section img {
+  object-fit: cover;
+  width: 120px;
+  aspect-ratio: 1/1;
+  
+}
+
+.Selettore-immagini {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.extra-section p {
+  margin-top: 2px;
+}
+
+.extra-section a {
+  font-size: medium;
+  margin-left: 10%;
+  position: absolute;
+  top: 90%;
+ 
+}
+
+#Headsets,
+#Sweatshirts,
+#Electronics,
+#Holiday {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  
+  
+}
+
+#Keyboards,
+#Joggers,
+#Fashion,
+#Gifts {
+  position: absolute;
+  right: 10%;
+  top: 15%;
+}
+
+#Computer,
+#Cardigans,
+#Toys,
+#Home {
+  position: absolute;
+  top: 55%;
+  left: 10%;
+}
+
+#Chairs,
+#Easy,
+#Beauty,
+#Fashion1 {
+  position: absolute;
+  top: 55%;
+  right: 10%;
+}
+
+h2 {
+  margin-left: 10%;
+}
+
+.New {
+  position: absolute;
+  object-fit: cover;
+  top: 51%;
+  left: 50%;
+}
+
+
